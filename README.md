@@ -26,13 +26,13 @@ Please adhere to good open source `code of conduct`.
 chapter-01-name-of-chapter
 ---lesson-01-name-of-lesson
 ------Codebase
-------Materials
+------Notes
 ---lesson-02-name-of-lesson
 ------Codebase
-------Materials
+------Notes
 ---lesson-03-name-of-lesson
 ------Codebase
-------Materials
+------Notes
 ---progress_screenshot_name_of_author.png
 ```
 <!-- ## Run Locally
@@ -62,8 +62,10 @@ Start the server
 ``` -->
 
 ## Authors
-
-- [@octokatherine](https://www.github.com/octokatherine)
+- [Nehemiah Aklil](https://github.com/NehemiahAklil)
+- [Rachel Zelke](https://github.com/Rahelrzel)
+- [Yeabsera](https://github.com/yeabsera-w)
+- [Yosiyas Endale](https://github.com/yosiyasendale)
 
 
 ## License
