@@ -63,7 +63,7 @@ Start the server
 
 ## Authors
 - [Nehemiah Aklil](https://github.com/NehemiahAklil)
-- [Rachel Zelke](https://github.com/Rahelrzel)
+- [Rachel Zeleke](https://github.com/Rahelrzel)
 - [Yeabsera](https://github.com/yeabsera-w)
 - [Yosiyas Endale](https://github.com/yosiyasendale)
 
